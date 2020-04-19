@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b30756f-8076-4df5-8e54-460c5209be6e" name="BGA" url="http://1.studio.boardgamearena.com">
+        <fileTransfer accessType="SFTP" host="1.studio.boardgamearena.com" port="22" sshConfigId="4d3b5462-d88f-42f6-bf1f-30eb5d595b92" sshConfig="BGA">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
